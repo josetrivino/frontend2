@@ -114,7 +114,7 @@ function alternarColorTema() {
 
 /* --------------------- PUNTO 5: Escribe tu codigo aqui --------------------- */
 document.addEventListener('keydown', function(event) {
-  if (event.key === 'F' || event.key === 'f') {
+  if (event.key === 'F' || event.key === 'F') {
     const sobreMi = document.getElementById('sobre-mi');
     sobreMi.classList.remove('oculto');
   }
